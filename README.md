@@ -57,8 +57,8 @@ By keeping the logic and data on the mainframe:
 
 ## 📂 Files Included
 
-- `Apresentacao.pptx` – Presentation with architecture proposal
-- `Presentation.pptx` – Presentation with architecture proposal  
+- `Apresentacao CWS.pptx` – Presentation with architecture proposal
+- `CWS Presentation.pptx` – Presentation with architecture proposal  
 - `README.md` – This file  
 - Optionally: Source files, code samples, or JSON/API examples (you can expand this section)
 
