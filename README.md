@@ -57,7 +57,8 @@ By keeping the logic and data on the mainframe:
 
 ## 📂 Files Included
 
-- `Apresentacao_chatgpt.pptx` – Presentation with architecture proposal  
+- `Apresentacao.pptx` – Presentation with architecture proposal
+- `Presentation.pptx` – Presentation with architecture proposal  
 - `README.md` – This file  
 - Optionally: Source files, code samples, or JSON/API examples (you can expand this section)
 
